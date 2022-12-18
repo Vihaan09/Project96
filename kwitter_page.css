@@ -1,0 +1,31 @@
+body
+{
+    background-image: linear-gradient( #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+    height: 1000px;
+
+}
+
+#output {
+
+    background-color: white;
+    border-radius: 10px;
+}
+
+img {
+
+    height: 100px;
+    width: 100px;
+}
+
+#message_div {
+
+    background-color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 400px;
+}
+
+#message {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
